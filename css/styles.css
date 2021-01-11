@@ -1,0 +1,21 @@
+body {
+  background-color: #ebfffa;
+  font-family: Monaco, monospace;
+}
+
+hr {
+  border-color: #6ef3d6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%;
+}
+
+h1 {
+  color: #0dceda;
+}
+
+h3 {
+  color: #0dceda;
+  text-align: center;
+}
